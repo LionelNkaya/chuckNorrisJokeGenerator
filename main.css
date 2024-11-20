@@ -1,0 +1,22 @@
+body {
+    padding: 10px;
+    background-color: #E8F5E9;
+    font: white;
+    color: #34495e;
+}
+
+.instructions {
+    padding: 5px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.mybutton {
+    padding: 15px;
+    color: #f1c40f;
+}
+
+.textbox {
+    border: 1px solid powderblue;
+    padding: 30px;
+}
